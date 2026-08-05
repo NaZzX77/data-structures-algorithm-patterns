@@ -1,7 +1,5 @@
 package SlidingWindow;
-
 import java.util.HashMap;
-
 //https://leetcode.com/problems/longest-substring-without-repeating-characters/description/
 public class LongestSubstringWithoutRepeatingCharacters {
     static void main(String[] args) {
